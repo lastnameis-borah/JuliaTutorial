@@ -37,3 +37,11 @@ println("$a $b")
 println("Search 'e' in name: ", occursin('e', name))
 # Search substring
 println("Search 'julia' in name: " , contains("julia", name))
+
+# Convert string to number
+
+# To integer
+println("String '1' converted to integer: ", parse(Int64, "1"))
+
+# To float
+println("String '1.7' converted to float: ", parse(Float64, "1.7"))
