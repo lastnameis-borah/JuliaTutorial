@@ -26,3 +26,6 @@ println(pi)
 
 # Unique operators
 println(+(1,2,3))
+
+# Convert number to string
+println("'Int64 1' converted to string: ", string(1))
