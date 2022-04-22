@@ -1,3 +1,3 @@
 # JuliaTutorial
 
-Learn Julia like never learned before.
+Learn Julia like you have never learned before.
